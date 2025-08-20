@@ -1,6 +1,6 @@
 # My Work Time
 
-The AI tool for generating summaries, transcriptions, and code
+The AI tool for generating summaries, transcriptions, and code.
 
 ## Overview
 
