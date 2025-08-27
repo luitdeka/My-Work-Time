@@ -25,7 +25,7 @@ Finally, run the app.py file to launch the website. Use the website link in your
 
 ## Usage
 
-Video explanation
+[Video explanation](https://youtu.be/vX7rOkG8S8I?si=LXFRjuIgSG6Ydt8U)
 
 Text explanation
 
